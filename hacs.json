@@ -1,4 +1,5 @@
 {
-    "name": "ResetZHASensor",
-    "render_readme": true
+  "name": "ResetZHASensor",
+  "content_in_root": true,
+  "render_readme": true
 }
